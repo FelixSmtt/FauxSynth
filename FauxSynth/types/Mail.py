@@ -1,18 +1,18 @@
 
 class Mail:
 
-    content: str
+    body: str
 
-    def __init__(self, handler, title: str, sender: str, mail_id: int):
+    def __init__(self, handler, subject: str, sender: str, mail_id: int):
         self.handler = handler
-        self.title = title
+        self.subject = subject
         self.sender = sender
         self.mail_id = mail_id
 
     def __str__(self):
-        return f"<Mail {self.mail_id} | {self.title} / {self.sender} >"
+        return f"<Mail {self.mail_id} | {self.subject} / {self.sender} >"
 
-    def get_content(self):
-        self.content = self.handler.get_mail(self.mail_id)
-        return self.content
+    def load_body(self):
+        self.body = self.handler.get_mail(self.mail_id)
+        return self.body
 
