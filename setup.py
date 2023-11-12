@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='faux-synth',
-    version='0.1.1',
+    version='0.1.2',
     description='A package for generating mails and addresses',
     long_description=long_description,
     long_description_content_type="text/markdown",

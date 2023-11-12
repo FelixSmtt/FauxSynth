@@ -1,5 +1,5 @@
 # FauxSynth
-[![GitHub issues](https://img.shields.io/github/issues/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/stargazers) [![PyPI version](https://badge.fury.io/py/rich.svg)](https://badge.fury.io/py/faux-synth)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -20,7 +20,7 @@ It scrapes the data from the internet and generates fake data for you.
 Download this repository and run the following command in the terminal to install the required packages.
 
 ```bash
-pip install -r requirements.txt
+pip install faux-synth
 ```
 
 ## Usage
