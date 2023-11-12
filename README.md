@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-The Python package for generating addresses, temporary emails, fake names, fake credit card numbers, fake phone numbers, fake jobs, fake profiles, fake companies, fake credit reports, fake identities, and more.
+The Python package for generating addresses, temporary emails, and more.
 It scrapes the data from the internet and generates fake data for you.
 
 ## Table of Contents
