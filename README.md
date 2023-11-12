@@ -1,5 +1,5 @@
 # FauxSynth
-[![GitHub issues](https://img.shields.io/github/issues/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/Alok-joseph/Fake-stuff-generator)](https://github.com/Alok-joseph/Fake-stuff-generator/stargazers) [![PyPI version](https://badge.fury.io/py/rich.svg)](https://badge.fury.io/py/faux-synth)
+[![GitHub issues](https://img.shields.io/github/issues/FelixSmtt/FauxSynth)](https://github.com/FelixSmtt/FauxSynth/issues) [![GitHub stars](https://img.shields.io/github/stars/FelixSmtt/FauxSynth)](https://github.com/FelixSmtt/FauxSynth/stargazers) [![PyPI version](https://badge.fury.io/py/rich.svg)](https://badge.fury.io/py/faux-synth)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
